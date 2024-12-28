@@ -1,11 +1,11 @@
-name = "cf-worker-ws-dev"
+name = "vless"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-# PROXYIP = "211.230.110.231:50008"
-UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
+PROXYIP = "36.95.152.58:12137"
+UUID = "4a123ebf-c8b2-4c2a-8c7b-30223c255ee3"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
