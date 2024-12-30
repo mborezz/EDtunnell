@@ -1,11 +1,11 @@
-name = "vless"
+name = "vip"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-PROXYIP = "36.95.152.58:12137"
+PROXYIP = "128.199.171.100:2053"
 UUID = "4a123ebf-c8b2-4c2a-8c7b-30223c255ee3"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
